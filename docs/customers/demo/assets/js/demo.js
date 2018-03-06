@@ -505,7 +505,7 @@ demo = {
 
         $.notify({
             icon: "nc-icon nc-app",
-            message: "Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for every web developer."
+            message: "Welcome to Simplex Portal. You are a <b>Demo Employee</b>."
 
         }, {
             type: type[color],
